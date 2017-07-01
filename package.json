@@ -1,13 +1,12 @@
 {
-  "name": "redis-service",
-  "version": "1.0.0",
-  "description": "",
+  "name": "light-api-redis",
+  "version": "1.0.1",
+  "description": "this plugin of the hapi for reids service",
   "main": "./lib",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "LIGHTAPI",
   "license": "ISC",
   "dependencies": {
     "generic-pool": "^3.1.7",
